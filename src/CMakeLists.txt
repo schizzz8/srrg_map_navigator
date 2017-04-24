@@ -1,0 +1,2 @@
+add_subdirectory(srrg_map_navigator_viewers)
+add_subdirectory(examples)
